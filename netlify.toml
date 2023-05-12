@@ -9,51 +9,51 @@
 	# Default build command.
 	command = "npm run build"
 
-[[redirects]]
-	# Redirect default Netlify subdomain to primary domain
-	from = "https://magmide.netlify.com/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
+# [[redirects]]
+# 	# Redirect default Netlify subdomain to primary domain
+# 	from = "https://magmide.netlify.com/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
 
-[[redirects]]
-	from = "https://magmide.netlify.app/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
-
-
-[[redirects]]
-	from = "https://www.magmide.org/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
-
-[[redirects]]
-	from = "https://magmide.org/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
+# [[redirects]]
+# 	from = "https://magmide.netlify.app/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
 
 
-[[redirects]]
-	from = "https://www.magmide.com/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
+# [[redirects]]
+# 	from = "https://www.magmide.org/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
 
-[[redirects]]
-	from = "https://magmide.com/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
+# [[redirects]]
+# 	from = "https://magmide.org/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
 
 
-[[redirects]]
-	from = "https://www.magmide.dev/*"
-	to = "https://magmide.dev/:splat"
-	status = 301
-	force = true
+# [[redirects]]
+# 	from = "https://www.magmide.com/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
+
+# [[redirects]]
+# 	from = "https://magmide.com/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
+
+
+# [[redirects]]
+# 	from = "https://www.magmide.dev/*"
+# 	to = "https://magmide.dev/:splat"
+# 	status = 301
+# 	force = true
 
 
 # If skip_processing = true, all other settings are ignored
